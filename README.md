@@ -1,5 +1,5 @@
-[Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user07777&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html)](https://github.com/souzanac/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user07777&layout=compact&theme=gruvbox&hide=css,html)](https://github.com/souzanac/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=user07777&theme=gruvbox)](https://git.io/streak-stats)
 <!--
 **user07777/user07777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
