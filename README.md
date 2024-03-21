@@ -1,5 +1,5 @@
 <div align="center" style="display: inline_block;font-size:75px">
-  <h1>I like c++<br>gameHacking<br> reverse enginering<br> and studing  windows kernel  development </h1>
+  <h1>I like c++<br>gameHacking<br> reverse enginering<br> and i am studing  windows kernel  development <br> i wanna be a firmware developer in the future </h1>
 </div>
 
 
