@@ -1,6 +1,3 @@
-<div align="center" style="display: inline_block;font-size:75px">
-  <h1>I like c++<br>gameHacking<br> reverse enginering<br> and i am studing  windows kernel  development <br> i wanna be a firmware developer in the future </h1>
-</div>
 
 
 <h3> 📚 Github Stats: <br></h3>
