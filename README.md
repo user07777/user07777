@@ -1,7 +1,7 @@
 
 
 <h3> 📚 Github Stats: <br></h3>
-<div align="center" style="justify-content:center">
+<div style="align-items:center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user07777&&theme=gruvbox&hide=css,html)](https://github.com/souzanac/github-readme-stats)
 </div>
