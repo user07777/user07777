@@ -2,7 +2,7 @@
 
 <h3> 📚 Github Stats: <br></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user07777&&theme=gruvbox&hide=css,html)](https://github.com/souzanac/github-readme-stats)
 <div align="center" style="display: inline_block;font-size:75px">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlite/sqlite-original-wordmark.svg">
 
 
-  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ally-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 <!--
