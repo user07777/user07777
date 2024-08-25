@@ -1,8 +1,10 @@
 
 
 <h3> 📚 Github Stats: <br></h3>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=user07777&show_icons=true&theme=gruvbox)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=user07777&&theme=gruvbox&hide=css,html)](https://github.com/souzanac/github-readme-stats)
+</div>
 <div align="center" style="display: inline_block;font-size:75px">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ally-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg">
@@ -18,8 +20,6 @@
 </div>
 <!--
 **user07777/user07777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 Here are some ideas to get you started:
 
