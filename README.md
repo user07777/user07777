@@ -27,7 +27,7 @@ Sou um programador especializado em C++, engenharia reversa e desenvolvimento de
 | [`gmodCheat`](https://github.com/user07777/gmodCheat) | Projeto de cheat para Garry's Mod. Hooking, leitura de memória e manipulação do jogo. |
 | [`TodoList`](https://github.com/user07777/TodoList) | Widget com GUI em DirectX9 — exemplo de uso direto da API gráfica da Microsoft. |
 | [`PcaExplorer`](https://github.com/user07777/PcaExplorer) | Ferramenta para listar aplicações recentemente abertas — manipulação do sistema operacional. |
-
+| [`OxForense`](https://github.com/user07777/0xforense) | Conjunto de ferramentas uteis para ánalise forense em windows
 ---
 
 ## 🎯 Objetivo
