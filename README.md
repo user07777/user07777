@@ -1,6 +1,6 @@
 # 👾 user07777
 
-> Low-level developer • Reverser • Systems programmer
+> Low-level developer • Reverser • Systems programmer • Computer Science Student
 
 Sou um programador especializado em C++, engenharia reversa e desenvolvimento de sistemas práticos. Meu foco é em **explorar, entender e modificar o funcionamento interno de aplicações e sistemas operacionais**, seja por curiosidade técnica, otimização ou criação de ferramentas.
 
