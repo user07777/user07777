@@ -12,9 +12,9 @@
 | [`TodoList`](https://github.com/user07777/TodoList) | Widget com GUI em DirectX9 — exemplo de uso direto da API gráfica da Microsoft. |
 | [`PcaExplorer`](https://github.com/user07777/PcaExplorer) | Ferramenta para listar aplicações recentemente abertas — manipulação do sistema operacional. |
 | [`OxForense`](https://github.com/user07777/0xforense) | Conjunto de ferramentas uteis para ánalise forense em windows
+| [`KernelCom`](https://github.com/user07777/KernelCom) | Documentação de um metodo de comunicação não republicano entre driver e usermode
+| [`Logic2000++`](https://github.com/user07777/Logic2000-) | Um parser e avaliador de expressões lógicas proposicionais em C++
 ---
-
-
 
 
 
