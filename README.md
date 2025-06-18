@@ -1,6 +1,5 @@
 # 👾 user07777
 
-![image](https://github.com/user-attachments/assets/5b413b31-796d-4aa1-9e56-4d24a91bd5a6)
 
 
 ## 📂 Destaques
